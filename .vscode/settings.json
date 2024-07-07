@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Diversity in Sciences",
+    "id": "668ae080979be077f9ee927b",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Khushdeep.SKYBEAST\\Desktop\\personalProjects\\DiversityInSciences\\src\\components",
+    "screensPath": "c:\\Users\\Khushdeep.SKYBEAST\\Desktop\\personalProjects\\DiversityInSciences\\src\\pages"
+  }
+}
